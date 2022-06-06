@@ -4,7 +4,7 @@ This is just an example of very basic Nodejs application based on express librar
 
 ## Intallation and usage
 
-### Clone project
+#### Clone Project
 
 ```bash
 git clone git@github.com:ticaje/nodejs-example.git
